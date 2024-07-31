@@ -1,0 +1,37 @@
+body {
+  background-color: #8ecae6;
+}
+.header {
+  background-color: rgb(15, 15, 72);
+  color: white;
+  text-align: center;
+  padding: 3px;
+}
+.main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#btn1{
+  background-color: chocolate;
+  color: white;
+  border: 20px;
+  justify-content: space-between;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 3px;
+  margin-right: 20px;
+  font-weight: 700;
+}
+#btn2{
+  background-color: chocolate;
+  color: white;
+  border: 20px;
+  justify-content: space-between;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 3px;
+  font-weight: 700;
+}
